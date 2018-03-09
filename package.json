@@ -1,0 +1,22 @@
+{
+  "name": "mocker",
+  "version": "1.0.0",
+  "description": "Mock JSON data quickly",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mock",
+    "json",
+    "json-server",
+    "api",
+    "backend"
+  ],
+  "author": "Kaustubh Talathi <kaustubhtalathi@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "json-concat": "0.0.1",
+    "json-server": "^0.12.1"
+  }
+}
